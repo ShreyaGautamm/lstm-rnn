@@ -4,7 +4,7 @@ A deep learning project that predicts the **next word** in a given sentence usin
 ---
 
 ## 📽️ Demo Preview
-![Demo](streamlit_app/lstm-next-word-gif.gif)
+![Demo](streamlit_app/lstm-next-word-prediction-gif.gif)
 
 ---
 
