@@ -36,6 +36,16 @@ This project uses the public domain text of *Hamlet* by William Shakespeare, com
 🌐 **Deployment:**  
   - Interactive **Streamlit web app** for real-time prediction
 
+---
+
+## 🔁 GRU Model Variation
+In addition to the LSTM-based next word prediction model, a Gated Recurrent Unit (GRU) model was also trained on the same Hamlet dataset. GRUs, being a lighter and faster alternative to LSTMs, help evaluate how model complexity affects performance on sequence prediction tasks. The GRU model follows a similar architecture and training process.
+
+### 📈 Model Comparison
+<img src="images/loss_and_accuracy.png" alt="Model Comparison" width="600" height="200"/>
+
+
+---
 
 ## 💻 Technologies Used
 
